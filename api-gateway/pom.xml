@@ -61,4 +61,8 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
+
+	<build>
+		<finalName>geteway_server</finalName>
+	</build>
 </project>
