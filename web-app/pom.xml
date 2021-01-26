@@ -4,14 +4,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <groupId>com.kedacom</groupId>
     <artifactId>web-app</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
 
 
     <parent>
         <artifactId>SpringCloud-Shop</artifactId>
         <groupId>com.kedacom</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0</version>
     </parent>
 
     <properties>
@@ -50,19 +50,19 @@
         <dependency>
             <artifactId>user-service</artifactId>
             <groupId>com.kedacom</groupId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
 
         <dependency>
             <artifactId>order-service</artifactId>
             <groupId>com.kedacom</groupId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
 
         <dependency>
             <artifactId>category-service</artifactId>
             <groupId>com.kedacom</groupId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
 
         <dependency>
