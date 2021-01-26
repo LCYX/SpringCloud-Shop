@@ -15,7 +15,6 @@
 		<artifactId>SpringCloud-Shop</artifactId>
 		<groupId>com.kedacom</groupId>
 		<version>1.0</version>
-<!--		<version>1.0-</version>-->c
 	</parent>
 
 	<properties>
