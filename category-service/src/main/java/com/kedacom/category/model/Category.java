@@ -6,7 +6,9 @@ import javax.validation.constraints.Size;
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.List;
-
+/**
+ * @author ymdx
+ */
 @Entity
 @Table(name = "category")
 public class Category implements Serializable {

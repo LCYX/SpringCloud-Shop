@@ -6,6 +6,7 @@ import java.math.BigDecimal;
 import java.util.Date;
 
 @Entity
+@Table(name = "order")
 public class Order implements Serializable {
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
